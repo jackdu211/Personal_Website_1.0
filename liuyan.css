@@ -1,0 +1,120 @@
+
+
+#font1{
+
+font-family:隶书;
+font-size:60px;
+text-align:center;
+}
+
+#font2{
+
+font-family:隶书;
+font-size:30px;
+text-align:center;
+color:red;
+}
+
+
+#font3{
+
+font-family:隶书;
+font-size:20px;
+text-align:center;
+
+}
+
+
+#right{
+float:right;
+}
+
+
+#header{
+
+margin :30px  
+}
+
+#contents{
+
+background: pink;
+margin:  0px;	
+padding 0px;
+
+
+}
+
+
+
+#main {
+margin :0px   auto ;
+width :600px; 
+border: 0px solid yellow ;
+background: gray;
+}
+
+#main textarea{
+padding:px;
+margin :0px   auto ;
+height:300px ; 
+width: 99%	 ;
+font-family:隶书;
+font-size:20px;
+
+}
+
+
+
+#users{
+margin :0px   auto ;
+padding:5px;	
+}
+
+
+#msg{
+width:590px;
+background:pink;
+padding :30px;	
+border:  1px solid ;
+padding :5px;
+margin:1px  auto;
+
+}
+
+		#center{
+	text-align:center;
+
+		}
+
+
+#borders{
+		height:600px;
+		width:600px;
+		border:3px solid blue;
+		margin: 0px auto;
+		padding : 25px;
+		background:gray;
+		}
+#border1{
+		height:600px;
+		width:600px;
+		
+		margin: 0px auto;
+		padding : 25px;
+		background:gray;
+		}
+
+				#h1{
+		font-size:60px;
+		font-family:隶书;
+		color:red;
+		text-align:center;
+		}
+
+		#username{
+		width:190px;
+		height:30px;
+		text-align:center;
+
+		
+		}
